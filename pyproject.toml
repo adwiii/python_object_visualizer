@@ -1,0 +1,18 @@
+[project]
+name = "object_size_visualizer"
+version = "0.0.1"
+authors = [
+    { name="Trey Woodlief", email="adw8dm@virginia.edu" },
+]
+description = "Python object size visualizer"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU GPL v3.0",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/adwiii/python_object_visualizer"
+"Bug Tracker" = "https://github.com/adwiii/python_object_visualizer/issues"
